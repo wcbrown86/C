@@ -1,0 +1,12 @@
+/var/spool/torque/mom_priv/jobs/52889.mba-m1.uncc.edu.SC: line 25: 60599 Segmentation fault      (core dumped) ./mergesort $n $t > /dev/null 2> ${RESULTDIR}/mergesort_${n}_${t}
+/var/spool/torque/mom_priv/jobs/52889.mba-m1.uncc.edu.SC: line 25: 60616 Segmentation fault      (core dumped) ./mergesort $n $t > /dev/null 2> ${RESULTDIR}/mergesort_${n}_${t}
+/var/spool/torque/mom_priv/jobs/52889.mba-m1.uncc.edu.SC: line 25: 60636 Segmentation fault      (core dumped) ./mergesort $n $t > /dev/null 2> ${RESULTDIR}/mergesort_${n}_${t}
+/var/spool/torque/mom_priv/jobs/52889.mba-m1.uncc.edu.SC: line 25: 60653 Segmentation fault      (core dumped) ./mergesort $n $t > /dev/null 2> ${RESULTDIR}/mergesort_${n}_${t}
+/var/spool/torque/mom_priv/jobs/52889.mba-m1.uncc.edu.SC: line 25: 60670 Segmentation fault      (core dumped) ./mergesort $n $t > /dev/null 2> ${RESULTDIR}/mergesort_${n}_${t}
+/var/spool/torque/mom_priv/jobs/52889.mba-m1.uncc.edu.SC: line 25: 60687 Segmentation fault      (core dumped) ./mergesort $n $t > /dev/null 2> ${RESULTDIR}/mergesort_${n}_${t}
+/var/spool/torque/mom_priv/jobs/52889.mba-m1.uncc.edu.SC: line 25: 60704 Segmentation fault      (core dumped) ./mergesort $n $t > /dev/null 2> ${RESULTDIR}/mergesort_${n}_${t}
+/var/spool/torque/mom_priv/jobs/52889.mba-m1.uncc.edu.SC: line 25: 60722 Segmentation fault      (core dumped) ./mergesort $n $t > /dev/null 2> ${RESULTDIR}/mergesort_${n}_${t}
+/var/spool/torque/mom_priv/jobs/52889.mba-m1.uncc.edu.SC: line 25: 60741 Segmentation fault      (core dumped) ./mergesort $n $t > /dev/null 2> ${RESULTDIR}/mergesort_${n}_${t}
+/var/spool/torque/mom_priv/jobs/52889.mba-m1.uncc.edu.SC: line 25: 60761 Segmentation fault      (core dumped) ./mergesort $n $t > /dev/null 2> ${RESULTDIR}/mergesort_${n}_${t}
+/var/spool/torque/mom_priv/jobs/52889.mba-m1.uncc.edu.SC: line 25: 60782 Segmentation fault      (core dumped) ./mergesort $n $t > /dev/null 2> ${RESULTDIR}/mergesort_${n}_${t}
+/var/spool/torque/mom_priv/jobs/52889.mba-m1.uncc.edu.SC: line 25: 60802 Segmentation fault      (core dumped) ./mergesort $n $t > /dev/null 2> ${RESULTDIR}/mergesort_${n}_${t}
